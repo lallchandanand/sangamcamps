@@ -44,7 +44,7 @@
     margin-top: 0px;
 }
 .space{
-    height: 15px;
+    height: 100px;
     display: block;
 }
 .navigation-example .img-src{
@@ -362,7 +362,7 @@
     text-transform: uppercase;
     top: 280px;
     z-index: 3;
-left: 40px;
+    left: 40px;
     display: block;
     margin: 0 auto;
     position: relative;
