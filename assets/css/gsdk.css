@@ -161,6 +161,12 @@ input[type="file"] > input[type="button"]::-moz-focus-inner {
 .ct-red.checkbox.checked,
 .ct-red.radio.checked {
   color: #FF3B30; }
+ .ct-green,
+.ct-green.checkbox.checked .second-icon,
+.ct-green.radio.checked .second-icon,
+.ct-green.checkbox.checked,
+.ct-green.radio.checked {
+  color: #58D68D  ; } 
 
 input.ct-blue + span.switch-left,
 input.ct-blue + span + label + span.switch-right {

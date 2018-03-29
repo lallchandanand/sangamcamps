@@ -49,7 +49,7 @@ $(document).ready(function(){
             if(!$(this).hasClass('state-open')){
                 $(this).addClass('state-hover');                
                 $(thisdiv).css({
-                    'height':'30px'
+                    'height':'100px'
                 });    
             }
             
